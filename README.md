@@ -1,13 +1,15 @@
 # Ecommerce-Applications
 A MySQL e-commerce database project demonstrating relational database design, SQL querying, data analysis, and business reporting.
 
-## Project structure
+## Project Structure
 
+```text
 Ecommerce-Applications/
 │
 ├── README.md
 ├── 01_database_setup.sql
 └── 02_queries_and_outputs.sql
+```
 
 ## Project Overview
 
@@ -59,17 +61,21 @@ The database contains the following tables:
 - Order Items – stores products included in each order
 - Payment – stores payment information and payment status
 
-┌────────────────────┬──────────────────────────┐
-│ SQL Area           │ Concepts in Your Project │
-├────────────────────┼──────────────────────────┤
-│ Filtering          │ WHERE, IN, BETWEEN, LIKE │
-│ Aggregation        │ COUNT, SUM, AVG, MAX ,MIN│
-│ Grouping           │ GROUP BY, HAVING         │
-│ Sorting            │ ORDER BY, LIMIT          │ 
-│ Relationships      │ Primary/Foreign Keys     │
-│ Joins              │ INNER JOIN               │
-│ Analysis           │ Business queries , etc.  |
-└────────────────────┴──────────────────────────┘
+## SQL Concepts Used
+
+```text
+┌────────────────────┬──────────────────────────────┐
+│ SQL Area           │ Concepts in Your Project     │
+├────────────────────┼──────────────────────────────┤
+│ Filtering          │ WHERE, IN, BETWEEN, LIKE     │
+│ Aggregation        │ COUNT, SUM, AVG, MAX, MIN    │
+│ Grouping           │ GROUP BY, HAVING             │
+│ Sorting            │ ORDER BY, LIMIT              │
+│ Relationships      │ Primary/Foreign Keys         │
+│ Joins              │ INNER JOIN                   │
+│ Analysis           │ Business queries, etc.       │
+└────────────────────┴──────────────────────────────┘
+```
 
 ## Learning Outcomes
 
