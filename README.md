@@ -86,3 +86,13 @@ The database contains the following tables:
 - Analyzing e-commerce data
 - Generating business-oriented reports using SQL
 
+
+
+## Author
+
+**Apurva Kesarkar**
+
+Computer Science Engineering Student
+
+- LinkedIn: [Apurva Kesarkar](https://www.linkedin.com/in/apurva-kesarkar-8004a5422)
+- GitHub: [Apurva Kesarkar](https://github.com/apurvakesarkar46)
